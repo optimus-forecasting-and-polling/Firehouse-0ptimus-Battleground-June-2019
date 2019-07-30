@@ -1,4 +1,4 @@
-# Firehouse-0ptimus-Battledground-June-2019
+# Firehouse-0ptimus-Battleground-June-2019
 This repo contains outputs from our Michigan, Pennsylvania, and Wisconsin Likely Voters Poll Conducted June 11-13, 2019.
 
 <a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Battleground-June-2019/blob/master/FH_0ptimus_June_2019_Methodology_Statement.docx">Methodology Statement</a>
